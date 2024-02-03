@@ -31,6 +31,8 @@ For inquiries related to our Minecraft server security tools, please contact us 
 
 This project is proprietary and not available for public use. 
 <br>
-<sup>&copy; MoonProtect.com. All rights reserved.</sup>
+<br>
+<sub style="color: gray;">&copy; MoonProtect.com. All rights reserved.</sub>
+
 
 
