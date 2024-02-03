@@ -32,7 +32,7 @@ For inquiries related to our Minecraft server security tools, please contact us 
 This project is proprietary and not available for public use. 
 <br>
 <br>
-> `© MoonProtect.com. All rights reserved.`
+`© MoonProtect.com. All rights reserved.`
 
 
 
