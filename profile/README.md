@@ -30,5 +30,5 @@ For inquiries related to our Minecraft server security tools, please contact us 
 ## License
 
 This project is proprietary and not available for public use.
->© MoonProtec.com. All rights reserved
+>© MoonProtec.com. All rights reserved.
 
