@@ -25,13 +25,6 @@
 Das Basis-Plugin liefert die Technik – eigene Packet-Schicht, NMS-Adapter, Datenbank, IPC und eine zentrale GUI –
 und jedes Produkt baut darauf auf, ohne von den anderen abzuhängen. Du installierst nur, was du brauchst.
 
-```yaml
-server:    Paper / Spigot 1.8.8 – 26.3 · Folia
-proxy:     Velocity · BungeeCord · Waterfall
-database:  SQLite · MariaDB / MySQL
-network:   Redis-IPC zwischen Proxy und Servern
-```
-
 <br>
 
 ## `> products`
